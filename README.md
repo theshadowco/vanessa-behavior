@@ -181,6 +181,7 @@ git submodule update --init --recursive
 
 более подробно в файле [CONTRIBUTING.md](https://github.com/silverbulleters/vanessa-behavior/blob/develop/CONTRIBUTING.md)
 
+
 ## Лицензии
 
 * основная лицензия продукта - BSD v3
