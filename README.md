@@ -31,6 +31,11 @@ git submodule update --init --recursive
 
 ```
 
+Обязательно ознакомьтесь с:
+
+* руководством контрибьютора [CONTRIBUTING.md](./CONTRIBUTING.md)
+* моделью спонсорства [DONATIONS.md](./DONATIONS.md)
+
 ## Описание простого использования
 
 * пишем feature файлы в формате Gherkin (обычно используется редактор Notepad++ или связанный проект **vanessa-bdd-editor**
@@ -152,6 +157,10 @@ git submodule update --init --recursive
 ```
 %V83PATH% /Execute C:\vanessa-behavior\vanessa-behavior.epf /C"StartFeaturePlayer;VBParams=C:\VBParams.json"
 ```
+
+## Создается при поддержке
+
+как попасть в этот раздел [./DONATIONS.md]
 
 ## Замечания:
 
